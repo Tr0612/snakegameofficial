@@ -1,0 +1,2 @@
+web: python.py snake.py
+worker: python snake.py
